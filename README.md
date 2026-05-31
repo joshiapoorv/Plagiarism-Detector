@@ -45,6 +45,6 @@ To make our plagiarism detector easily accessible, we create a Flask web applica
 - Store and analyze previous results in a database.  
 - Deploy the web application using services like Render or Heroku.
 
-## License :
+## License
 This project is licensed under the MIT License.
 
